@@ -1,1 +1,22 @@
-
+{
+  "catalog_version": 1,
+  "games": [
+    {
+      "id": "example-game",
+      "title": "Watch Dogs",
+      "title_id": "CUSA00000",
+      "category": "Games",
+      "package_type": "game",
+      "minimum_firmware": "9.00",
+      "pkg_url": "http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA00048_00/3/f_39af1694a82ef627315d2a29d63871ad55bc8ea45cf65b883ccd38609e37b60e/f/EP4176-CUSA00048_00-BASEMENTCRAWL001-A0101-V0102.pkg",
+      "description": "",
+      "cover": "",
+      "genre": "",
+      "developer": "",
+      "publisher": "",
+      "release_date": "",
+      "region": "USA",
+      "version": "1.00"
+    }
+  ]
+}
